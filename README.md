@@ -1,4 +1,3 @@
-# Rui Florentino de Medeiros Neto
 
 <div align="center">
 
@@ -9,9 +8,10 @@
 [![CSS3](https://img.shields.io/badge/CSS-1F6FEB?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-0A1930?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=58A6FF&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&title_color=58A6FF&hide_border=true)
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=58A6FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&title_color=58A6FF&hide_border=true" />
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rui_neto0606/)
 [![Gmail](https://img.shields.io/badge/Gmail-0A1930?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netoruimedeiros@gmail.com)
