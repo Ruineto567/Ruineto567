@@ -43,6 +43,3 @@
   <a href="https://www.linkedin.com/in/seulinkedin"><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 </p>
 
----
-
-<p align="center">⭐ Sempre evoluindo, sempre construindo.</p>
