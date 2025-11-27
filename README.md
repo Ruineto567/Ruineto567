@@ -1,17 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Rui Neto</h1>
 
 <p align="center">
-  Desenvolvedor Web • Criador do FutureKey 🚀 • Moovery Dev
+  Desenvolvedor Web
 </p>
 
----
-
-### 🌐 Sobre mim
-
-Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções para problemas reais.  
-Atualmente trabalho na **Moovery** com suporte técnico e desenvolvimento, e desenvolvo meu próprio SaaS de análise digital: **FutureKey**.
-
----
 
 ### 🛠️ Tecnologias que mais uso
 
