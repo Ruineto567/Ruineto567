@@ -8,9 +8,9 @@
 [![CSS3](https://img.shields.io/badge/CSS-1F6FEB?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-0A1930?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-<div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=58A6FF&hide_border=true" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&title_color=58A6FF&hide_border=true" style="height: 195px;" />
+<div style="display: flex; gap: 12px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=58A6FF&hide_border=true&card_width=420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&title_color=58A6FF&hide_border=true&card_width=420" />
 </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rui_neto0606/)
