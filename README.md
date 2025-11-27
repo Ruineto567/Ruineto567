@@ -25,15 +25,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=radical&hide_title=true&hide_border=true" />
 </p>
 
----
-
-### 🚀 Projetos Relevantes
-
-- **FutureKey** – SaaS de análise digital e insights de Instagram  
-- **Projeto Interavel JS** – Exercícios práticos de lógica e JavaScript  
-- **Moovery** – Contribuições contínuas no sistema interno da empresa (painéis, integrações, melhorias e suporte técnico)
-
----
 
 ### 🔗 Contato
 
