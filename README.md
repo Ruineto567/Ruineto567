@@ -11,12 +11,14 @@
   <tr>
     <td style="border: 0; padding: 0;">
       <img 
-        src="https://github-readme-stats-git-masterorg-vercel.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=58A6FF&bg_color=00000000&hide_border=true&card_width=360" 
+        src="https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&hide_border=true"
+        width="360"
       />
     </td>
     <td style="border: 0; padding: 0;">
       <img 
-        src="https://github-readme-stats-git-masterorg-vercel.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&title_color=58A6FF&bg_color=00000000&hide_border=true&card_width=360" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&hide_border=true"
+        width="360"
       />
     </td>
   </tr>
