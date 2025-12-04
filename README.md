@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Capa](https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0A1930,100:1F6FEB&text=Ruineto567&fontColor=E6EDF3&fontAlign=50&fontSize=34&desc=PHP%20|%20JavaScript%20|%20CSS%20|%20SQL&descAlign=50&descAlignY=70)
@@ -11,10 +10,14 @@
 <table align="center" style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td style="border: 0; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=58A6FF&bg_color=00000000&hide_border=true&card_width=360" />
+      <img 
+        src="https://github-readme-stats-git-masterorg-vercel.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&title_color=58A6FF&icon_color=58A6FF&bg_color=00000000&hide_border=true&card_width=360" 
+      />
     </td>
     <td style="border: 0; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&title_color=58A6FF&bg_color=00000000&hide_border=true&card_width=360" />
+      <img 
+        src="https://github-readme-stats-git-masterorg-vercel.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&title_color=58A6FF&bg_color=00000000&hide_border=true&card_width=360" 
+      />
     </td>
   </tr>
 </table>
