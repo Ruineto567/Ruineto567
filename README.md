@@ -5,24 +5,13 @@
 [![PHP](https://img.shields.io/badge/PHP-1F6FEB?style=for-the-badge&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0A1930?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 [![CSS3](https://img.shields.io/badge/CSS-1F6FEB?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-0A1930?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/SQL-0A1930?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-<table align="center" style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td style="border: 0; padding: 0;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&hide_border=true"
-        width="360"
-      />
-    </td>
-    <td style="border: 0; padding: 0;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&hide_border=true"
-        width="360"
-      />
-    </td>
-  </tr>
-</table>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruineto567&theme=blue-green&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=E6EDF3" width="420"/>
+
+<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rui_neto0606/)
 [![Gmail](https://img.shields.io/badge/Gmail-0A1930?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netoruimedeiros@gmail.com)
