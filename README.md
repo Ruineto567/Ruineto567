@@ -12,10 +12,10 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: 0; padding: 4px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&hide_border=true" width="360"/>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruineto567&show_icons=true&theme=blue_navy&hide_border=true" width="360"/>
     </td>
     <td style="border: 0; padding: 4px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&hide_border=true" width="280"/>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ruineto567&layout=compact&theme=blue_navy&hide_border=true" width="280"/>
     </td>
   </tr>
 </table>
