@@ -1,23 +1,21 @@
 <div align="center">
 
-![Capa](https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0A1930,100:1F6FEB&text=Ruineto567&fontColor=E6EDF3&fontAlign=50&fontSize=34&desc=PHP%20|%20JavaScript%20|%20CSS%20|%20SQL&descAlign=50&descAlignY=70)
+![Capa](https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:0D1117&text=Ruineto567&fontColor=00FF41&fontAlign=50&fontSize=36&desc=PHP%20|%20JavaScript%20|%20CSS%20|%20SQL&descAlign=50&descAlignY=75&descColor=00FF41)
 
 <br/>
 
-[![PHP](https://img.shields.io/badge/PHP-1F6FEB?style=for-the-badge&logo=php&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0A1930?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
-[![CSS3](https://img.shields.io/badge/CSS-1F6FEB?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/SQL-0A1930?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-00FF41?style=flat-square&logo=php&logoColor=000000)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41)](#)
+[![CSS3](https://img.shields.io/badge/CSS-00FF41?style=flat-square&logo=css3&logoColor=000000)](#)
+[![MySQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=00FF41)](#)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ruineto567&theme=dark&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=E6EDF3&dates=E6EDF3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ruineto567&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff)](https://git.io/streak-stats)
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rui_neto0606/)
-[![Gmail](https://img.shields.io/badge/Gmail-0A1930?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netoruimedeiros@gmail.com)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F6FEB,100:0A1930&section=footer)
+[![Instagram](https://img.shields.io/badge/-Instagram-00FF41?style=flat-square&logo=instagram&logoColor=000000)](https://www.instagram.com/rui_neto0606/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=gmail&logoColor=00FF41)](mailto:netoruimedeiros@gmail.com)
 
 </div>
